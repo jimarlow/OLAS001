@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gilmanCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="gilmanCatalog.xsd">
+  <gilmanItem>
+    <number>GIL0001</number>
+    <title>Anthropological Studies in Innsmouth vol. 1</title>
+    <authors>W. Gilman</authors>
+    <publisher>W. Gilman</publisher>
+    <sbn></sbn>
+    <description>Copy one of three known.</description>
+  </gilmanItem>
+  <gilmanItem>
+    <number>GIL0002</number>
+    <title>Anthropological Studies in Innsmouth vol. 2</title>
+    <authors>W. Gilman</authors>
+    <publisher>W. Gilman</publisher>
+    <sbn></sbn>
+    <description>Only known copy.</description>
+  </gilmanItem>
+  <gilmanItem>
+    <number>GIL0003</number>
+    <title>Field Guide to South Sea Cryptids</title>
+    <authors>W. Gilman R. Marsh</authors>
+    <publisher>Forbidden Sea Press</publisher>
+    <sbn>ISBN-13: 1726371621232</sbn>
+    <description>Slight foxing to cover.</description>
+  </gilmanItem>
+</gilmanCatalog>
